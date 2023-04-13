@@ -13,7 +13,7 @@ public class MaiorController
 		super();
 	}
 	
-	public void parEImpar(int[] valor)
+	public void maior(int[] valor)
 	{
 		PilhaInt pilha = new PilhaInt();
 		
